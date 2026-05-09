@@ -17,7 +17,7 @@ in a clean, responsive, and interactive interface.
 
 | Name | GitHub Profile | Role |
 |------|---------------|------|
-| TBD | [@username](https://github.com) | Team Lead |
+| TBD | [CelestialMerchant](https://github.com) | Team Lead |
 | TBD | [craftsman-da](https://github.com) | Assistant Team Lead |
 | TBD | [Stevenjnr2's](https://github.com) | Member |
 
