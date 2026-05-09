@@ -17,9 +17,9 @@ in a clean, responsive, and interactive interface.
 
 | Name | GitHub Profile | Role |
 |------|---------------|------|
-| TBD | [CelestialMerchant](https://github.com) | Team Lead |
-| TBD | [craftsman-da](https://github.com) | Assistant Team Lead |
-| TBD | [Stevenjnr2's](https://github.com) | Member |
+| Abdulmuizz | [CelestialMerchant](https://github.com) | Team Lead |
+| Craft Orbitals | [craftsman-da](https://github.com) | Assistant Team Lead |
+| Steven | [Stevenjnr2's](https://github.com) | Member |
 
 
 > _Table will be updated as members join_
