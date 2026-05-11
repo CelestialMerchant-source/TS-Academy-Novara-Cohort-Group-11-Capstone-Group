@@ -27,6 +27,8 @@ in a clean, responsive, and interactive interface.
 | Olaife Blessing|[Blessing-95](https://github.com) | Member |
 | Adodo Daniel|[Adodo-Safe](https://github.com) | Member |
 |Muoghalu chibuikem |[chibyke001-tech](https://github.com) | Member |
+|Timothy|[timothyadeyemi2997](https://github.com) | Member |
+
 
 
 
