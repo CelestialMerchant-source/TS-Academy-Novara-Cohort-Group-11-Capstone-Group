@@ -28,7 +28,7 @@ in a clean, responsive, and interactive interface.
 | Adodo Daniel|[Adodo-Safe](https://github.com) | Member |
 |Muoghalu chibuikem |[chibyke001-tech](https://github.com) | Member |
 |Timothy|[timothyadeyemi2997](https://github.com) | Member |
-| Vivian|[|vivian3438|(https://github.com) | Member |
+| Vivian|[vivian3438](https://github.com) | Member |
 
 
 
