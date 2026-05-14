@@ -19,7 +19,18 @@ in a clean, responsive, and interactive interface.
 |------|---------------|------|
 | Abdulmuizz | [CelestialMerchant](https://github.com) | Team Lead |
 | Craft Orbitals | [craftsman-da](https://github.com) | Assistant Team Lead |
-| Steven | [Stevenjnr2's](https://github.com) | Member |
+| Steven |[Stevenjnr2's](https://github.com) | Member |
+| Mercy|[ MERCYyYy-debug](https://github.com) | Member |
+|  Abdulhamid|[abdulhamidadeolahassan-create](https://github.com) | Member |
+| David|[ David1213-pixel](https://github.com) | Member |
+| Davetech|[Davetech0](https://github.com) | Member |
+| Olaife Blessing|[Blessing-95](https://github.com) | Member |
+| Adodo Daniel|[Adodo-Safe](https://github.com) | Member |
+|Muoghalu chibuikem |[chibyke001-tech](https://github.com) | Member |
+
+
+
+ 
 
 
 > _Table will be updated as members join_
