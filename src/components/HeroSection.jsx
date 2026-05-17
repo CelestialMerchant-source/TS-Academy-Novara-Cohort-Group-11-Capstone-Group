@@ -8,8 +8,8 @@ const HeroSection = () => {
         <div className="hero-left">
           <h1>Explore Our Solar System Through Data</h1>
           <p>
-            Understand planets by measurable facts like size, gravity and
-            density.
+            Understand the planets not just by name, but by measurable facts. From size and mass to gravity and
+            density, this page breaks down the solar system in a clear, data-driven way.
           </p>
 
           <div className="hero-btn">
