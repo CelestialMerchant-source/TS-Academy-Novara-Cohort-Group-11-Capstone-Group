@@ -1,7 +1,7 @@
 import HeroSection from "./components/HeroSection";
 import DataTable from "./components/DataTable";
 import "./index.css";
-import "./hero-section";
+import "./hero-section.css";
 
 function App() {
   return (
