@@ -18,7 +18,7 @@ in a clean, responsive, and interactive interface.
 | Name | GitHub Profile | Role |
 |------|---------------|------|
 | Abdulmuizz | [CelestialMerchant](https://github.com) | Team Lead |
-| Craft Orbitals | [craftsman-da](https://github.com) | Assistant Team Lead |
+| Craftsman | [craftsman-da](https://github.com) | Assistant Team Lead |
 | Steven |[Stevenjnr2's](https://github.com) | Member |
 | Mercy|[ MERCYyYy-debug](https://github.com) | Member |
 |  Abdulhamid|[abdulhamidadeolahassan-create](https://github.com) | Member |
@@ -28,6 +28,7 @@ in a clean, responsive, and interactive interface.
 | Adodo Daniel|[Adodo-Safe](https://github.com) | Member |
 |Muoghalu chibuikem |[chibyke001-tech](https://github.com) | Member |
 |Timothy|[timothyadeyemi2997](https://github.com) | Member |
+| Vivian|[vivian3438](https://github.com) | Member |
 
 
 
