@@ -1,0 +1,46 @@
+
+/* ── Sticky Header ── */
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  width: 100%;
+  background-color: #0d1b3e;   
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.4);
+  margin: 0;
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  padding: 0.6rem var(--side-padding, 8%);
+  height: 70px;
+}
+
+/* ── Logo ── */
+.logo a {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+.logo a:hover {
+  opacity: 0.8;
+}
+
+.logo-img {
+  height: 40px;
+  width: auto;
+  display: block;
+}
+
+/* ── Mobile ── */
+@media (max-width: 768px) {
+  .header-inner {
+    justify-content: center;   /* centers the logo */
+    padding: 0.6rem 5%;
+  }
+}
