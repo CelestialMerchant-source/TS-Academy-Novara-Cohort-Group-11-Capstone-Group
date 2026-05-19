@@ -1,4 +1,4 @@
-import Header from "./components/Header";
+import Header from "./components/Headers/Header";
 import HeroSection from "./components/HeroSection";
 import DataTable from "./components/DataTable";
 import "./index.css";
